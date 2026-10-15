@@ -2,7 +2,7 @@
 
 Working on Kan-Linux from scratch has shifted my perspective on Linux distributions. so "Development Notes & Reflections on Kan-Linux" was born.
 
-When adding Chinese input support, I discovered T2 SDE. Having suffered through commercial projects built on [Yocto](https://www.yoctoproject.org/), I personally see it as another Yocto-like highly sophisticated and complex build system, which I don't wish to work with anymore. I greatly admire its maintainer’s over 20 years of work, yet it is striking to see it only has 741 GitHub stars (I added the 741st star), while Omarchy desktop shell reaches 40k+.
+When adding Chinese input support on Oct 14 2026, I discovered T2 SDE. Having suffered through commercial projects built on [Yocto](https://www.yoctoproject.org/), I personally see it as another Yocto-like highly sophisticated and complex build system, which I don't wish to work with anymore. I greatly admire its maintainer’s over 20 years of work, yet it is striking to see it only has 741 GitHub stars (I added the 741st star), while Omarchy desktop shell reaches 40k+.
 
 I previously only knew mainstream distros. This opened my eyes: hundreds of Linux distributions exist.
 
